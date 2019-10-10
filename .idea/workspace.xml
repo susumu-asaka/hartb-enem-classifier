@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9edbb58f-3686-421d-adcb-c99e11cf9958" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/notebooks/Classification_CN.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/susum.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/susum.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/Classification_LC.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/Classification_MT.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/municipios.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/municipios.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/DataPreparation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/DataPreparation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/producao_proba_cn.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/producao_proba_cn.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/Classification_CN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Classification_CN.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +116,8 @@
       <workItem from="1570678178172" duration="11440000" />
       <workItem from="1570690818586" duration="2861000" />
       <workItem from="1570694390825" duration="4002000" />
-      <workItem from="1570698429188" duration="2386000" />
+      <workItem from="1570698429188" duration="2977000" />
+      <workItem from="1570702047111" duration="2816000" />
     </task>
     <servers />
   </component>
