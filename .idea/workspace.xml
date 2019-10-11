@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9edbb58f-3686-421d-adcb-c99e11cf9958" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/susum.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/susum.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/producao_proba_cn.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/producao_proba_cn.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/Classification_CH.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Classification_CH.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/Classification_CN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Classification_CN.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/Classification_LC.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Classification_LC.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/Classification_MT.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Classification_MT.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -116,7 +121,9 @@
       <workItem from="1570698429188" duration="2977000" />
       <workItem from="1570702047111" duration="2936000" />
       <workItem from="1570705114796" duration="178000" />
-      <workItem from="1570727861485" duration="260000" />
+      <workItem from="1570727861485" duration="6451000" />
+      <workItem from="1570799478303" duration="3822000" />
+      <workItem from="1570806366845" duration="7495000" />
     </task>
     <servers />
   </component>
