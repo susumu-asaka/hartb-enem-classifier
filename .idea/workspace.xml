@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9edbb58f-3686-421d-adcb-c99e11cf9958" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/sample_microdados.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/susum.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/susum.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/enem_classifier.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/enem_classifier.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/producao_proba_cn.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/producao_proba_cn.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/Classification_CH.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Classification_CH.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/Classification_CN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Classification_CN.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/Classification_LC.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Classification_LC.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/Classification_MT.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Classification_MT.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/escolas.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/escolas.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/read_microdados.py" beforeDir="false" afterPath="$PROJECT_DIR$/read_microdados.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,12 +27,23 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1RkZn150M3j9eSXSkyAafCji6FA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Downloads/IntelliJ.Portuguese.Brazil.Dictionary-master/portuguese-brazil_without-accents.dic" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Research-Methods-for-Data-Science-with-Python" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -39,19 +52,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -99,7 +100,19 @@
       <method v="2" />
     </configuration>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="4" Folder0="C:\Users\susum\Downloads\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder1="C:\Users\susum\Downloads\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder2="C:\Users\susum\Downloads\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder3="C:\Users\susum\Downloads\IntelliJ.Portuguese.Brazil.Dictionary-master" CustomDictionaries="4" CustomDictionary0="C:\Users\susum\Downloads\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil.dic" CustomDictionary1="C:\Users\susum\Downloads\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_technical-terms.dic" CustomDictionary2="C:\Users\susum\Downloads\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_technical-terms_without-accents.dic" CustomDictionary3="C:\Users\susum\Downloads\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_without-accents.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="4" Folder0="C:\Users\susum\Downloads\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder1="C:\Users\susum\Downloads\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder2="C:\Users\susum\Downloads\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder3="C:\Users\susum\Downloads\IntelliJ.Portuguese.Brazil.Dictionary-master" CustomDictionaries="4" CustomDictionary0="C:\Users\susum\Downloads\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil.dic" CustomDictionary1="C:\Users\susum\Downloads\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_technical-terms.dic" CustomDictionary2="C:\Users\susum\Downloads\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_technical-terms_without-accents.dic" CustomDictionary3="C:\Users\susum\Downloads\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_without-accents.dic" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -123,24 +136,50 @@
       <workItem from="1570705114796" duration="178000" />
       <workItem from="1570727861485" duration="6451000" />
       <workItem from="1570799478303" duration="3822000" />
-      <workItem from="1570806366845" duration="7495000" />
+      <workItem from="1570806366845" duration="9455000" />
+      <workItem from="1571320574883" duration="203000" />
+      <workItem from="1573419215940" duration="660000" />
+      <workItem from="1573429584532" duration="1598000" />
+      <workItem from="1573439150223" duration="1245000" />
+      <workItem from="1573483379987" duration="7000" />
+      <workItem from="1574025249919" duration="48152000" />
+      <workItem from="1574259723776" duration="31000" />
+      <workItem from="1574259809606" duration="346000" />
+      <workItem from="1574282431714" duration="5563000" />
+      <workItem from="1577402987709" duration="42000" />
+      <workItem from="1577403070489" duration="1320000" />
+      <workItem from="1577535874448" duration="49000" />
+      <workItem from="1581619266470" duration="158000" />
+      <workItem from="1641949059329" duration="1296000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="277" y="74" key="SettingsEditor" timestamp="1581619327016">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="74" key="SettingsEditor/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1581619327016" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1577535911169">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1577535911169" />
   </component>
 </project>
